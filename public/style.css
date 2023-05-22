@@ -14,12 +14,6 @@
             font-family: 'Lexend', sans-serif;
          }
 
-         .center {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            text-align: center;
-         }
 import stars from "../public/backgrounds/stars.json";
 
 /* LINK */
